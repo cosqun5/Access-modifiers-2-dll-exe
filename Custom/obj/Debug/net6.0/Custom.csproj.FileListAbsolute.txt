@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\Custom\bin\Debug\net6.0\Custom.deps.json
+C:\Users\LENOVO\Desktop\Custom\bin\Debug\net6.0\Custom.dll
+C:\Users\LENOVO\Desktop\Custom\bin\Debug\net6.0\Custom.pdb
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.dll
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\refint\Custom.dll
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\Custom.pdb
+C:\Users\LENOVO\Desktop\Custom\obj\Debug\net6.0\ref\Custom.dll

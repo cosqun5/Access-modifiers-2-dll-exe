@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Access modifiers-2,dll,exe/1.0.0": {
+        "dependencies": {
+          "Custom": "1.0.0"
+        },
+        "runtime": {
+          "Access modifiers-2,dll,exe.dll": {}
+        }
+      },
+      "Custom/1.0.0": {
+        "runtime": {
+          "Custom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access modifiers-2,dll,exe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Custom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
